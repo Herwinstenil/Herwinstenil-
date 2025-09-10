@@ -8,25 +8,8 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" /><br>
-  
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=django,flask,bootstrap" /><br>
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite" /><br>
-  
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,bootstrap,sqlite,mongodb,git,github,vscode" />
 </p>
-
-
----
-
-## 💼 Experience
-- 🟢 **Python Full Stack Developer Intern** @ Roriri Software Solutions *(July 2025 – Present)*  
-- 🔵 **Python Full Stack Developer Intern** @ Phoenix Softech *(Feb 2025 – May 2025)*  
 
 ---
 
@@ -49,9 +32,16 @@
 
 ---
 
-## 📫 Connect With Me
-- 📧 [herwinstenil24@gmail.com](mailto:herwinstenil24@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/herwin-stenil-e-b65317263)   
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:herwinstenil24@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/herwin-stenil-e-b65317263">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ✨ *Always open to exciting opportunities and collaborations!*  
 
