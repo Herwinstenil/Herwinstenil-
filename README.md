@@ -15,12 +15,16 @@
 
 ## 🌟 Featured Projects
 - **Smart Canteen Management System** – QR-based authentication, employee food ordering, and billing system (Django + SQLite).  
-- **Tournament Fixtures Platform** – Manage fixtures, brackets, live scores (stadium-style), with Google Maps API integration.  
+- **Tournament Fixtures Platform** – Manage fixtures, brackets, live scores (stadium-style), with Google Maps API integration.
+- **Hospital Appointment Booking System** – Patients can book doctor appointments, view schedules, and receive confirmation through Email & SMS (Django + MySQL).  
+- **Quiz Application** – Interactive quiz platform with timer, score tracking, and leaderboard (Django + JavaScript).  
+
+👉 Explore my repos for source code!
 
 ---
 
 ## 📊 GitHub Stats
-| ![Herwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herwinstenil&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=radical) | 
+ ![Herwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herwinstenil&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=radical)  
 
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herwinstenil&theme=tokyonight)
