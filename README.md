@@ -7,23 +7,23 @@
 
 ## 🛠 Tech Stack  
 
-### 🌐 Frontend  
-<p align="center">
+### 🪄 Frontend  
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
 ### ⚙️ Backend  
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,django,flask" />
 </p>
 
 ### 🗄️ Database  
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=sqlite,mongodb" />
 </p>
 
-### 🛠 Tools  
-<p align="center">
+### ⚡Tools  
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -50,9 +50,9 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herwinstenil&theme=blue-green&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Herwinstenil&theme=blue-green&hide_border=false" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Herwinstenil&bg_color=0d1117&color=00e4ff&line=00e4ff&point=ffffff&area=true&hide_border=false" alt="GitHub Activity Graph" />
 </p>
-
+</p>
 
 ---
 
