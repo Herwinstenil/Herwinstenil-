@@ -9,13 +9,13 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" /><br>
   
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=django,flask,bootstrap" /><br>
   
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=sqlite,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite" /><br>
   
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -41,7 +41,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=tokyonight)  
 
-
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herwinstenil&theme=tokyonight)
 
@@ -52,8 +51,7 @@
 
 ## 📫 Connect With Me
 - 📧 [herwinstenil24@gmail.com](mailto:herwinstenil24@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/herwin-stenil-e-b65317263)  
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/herwin-stenil-e-b65317263)   
 
 ✨ *Always open to exciting opportunities and collaborations!*  
 
