@@ -31,6 +31,13 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=tokyonight)  
 
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herwinstenil&theme=tokyonight)
+
+<!-- Contributions Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Herwinstenil&theme=tokyo-night)
+
 ---
 
 ## 📫 Connect With Me
