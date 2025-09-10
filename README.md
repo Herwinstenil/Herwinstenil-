@@ -19,7 +19,6 @@
 ### 🗄️ Database  
 <p>
   <img src="https://skillicons.dev/icons?i=sqlite,mongodb" />
-  <img src="https://skillicons.dev/icons?i=django" title="Django ORM" />
 </p>
 
 ### ⚡Tools  
@@ -64,6 +63,4 @@
   </a>
 </p>
 
-
 ✨ *Always open to exciting opportunities and collaborations!*  
-
