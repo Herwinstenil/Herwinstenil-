@@ -7,8 +7,24 @@
 
 ## 🛠 Tech Stack  
 
+### 🌐 Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,bootstrap,sqlite,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask" />
+</p>
+
+### 🗄️ Database  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,mongodb" />
+</p>
+
+### 🛠 Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -25,15 +41,18 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Herwinstenil&show_icons=true&theme=blue-green&hide_border=false" alt="Herwin's GitHub stats" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=blue-green&hide_border=false" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Herwinstenil&show_icons=true&theme=blue-green&hide_border=false" alt="Herwin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=blue-green&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herwinstenil&theme=blue-green&hide_border=false" alt="GitHub Streak" width="450" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Herwinstenil&theme=react-dark&hide_border=false" alt="GitHub Activity Graph" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herwinstenil&theme=blue-green&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Herwinstenil&theme=blue-green&hide_border=false" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
