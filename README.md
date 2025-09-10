@@ -30,18 +30,16 @@
 ---
 
 ## 🌟 Featured Projects
-- **Smart Canteen Management System** – QR-based authentication, employee food ordering, and billing systemy.  
-- **Tournament Fixtures Platform** – Manage fixtures, brackets, live scores (stadium-style), with Google Maps API integration.
-- **Hospital Appointment Booking System** – Patients can book doctor appointments, view schedules, and receive confirmation through Email & SMS **Twilio API**.  
-- **Quiz Application** – Interactive quiz platform with timer, score tracking, and leaderboard.  
+- **Smart Canteen Management System** – QR-based authentication for employees, Food ordering and automated billing system.  
+- **Tournament Fixtures Platform** – Manage fixtures, brackets, and live scores in real-time, Integrated Google Maps API for stadium locations.
+- **Hospital Appointment Booking System** – Patients can book doctor appointments and check schedules, Appointment confirmation via Email & SMS using Twilio API.  
+- **Quiz Application** – Interactive quiz platform with a countdown timer, Score tracking and leaderboard for competition.  
 
 👉 Explore my repos for source code!
 
 ---
 
 ## 📊 GitHub Stats
-
-## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Herwinstenil&show_icons=true&theme=blue-green&hide_border=false" alt="Herwin's GitHub stats" />
@@ -58,7 +56,7 @@
 
 ## 📫 Connect With Me  
 
-<p align="center">
+<p>
   <a href="mailto:herwinstenil24@gmail.com" style="text-decoration:none; margin: 0 15px;">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" />
   </a>
