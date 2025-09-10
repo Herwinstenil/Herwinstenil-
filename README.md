@@ -14,10 +14,10 @@
 ---
 
 ## 🌟 Featured Projects
-- **Smart Canteen Management System** – QR-based authentication, employee food ordering, and billing system (Django + SQLite).  
+- **Smart Canteen Management System** – QR-based authentication, employee food ordering, and billing systemy.  
 - **Tournament Fixtures Platform** – Manage fixtures, brackets, live scores (stadium-style), with Google Maps API integration.
-- **Hospital Appointment Booking System** – Patients can book doctor appointments, view schedules, and receive confirmation through Email & SMS **Twilio API**  (Django + MySQL).  
-- **Quiz Application** – Interactive quiz platform with timer, score tracking, and leaderboard (Django + JavaScript).  
+- **Hospital Appointment Booking System** – Patients can book doctor appointments, view schedules, and receive confirmation through Email & SMS **Twilio API**.  
+- **Quiz Application** – Interactive quiz platform with timer, score tracking, and leaderboard.  
 
 👉 Explore my repos for source code!
 
@@ -26,13 +26,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Herwinstenil&show_icons=true&theme=blue-green&hide_border=false" alt="Herwin's GitHub stats" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=blue-green&hide_border=false" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Herwinstenil&show_icons=true&theme=blue-green&hide_border=false" alt="Herwin's GitHub stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=blue-green&hide_border=false" alt="Top Languages" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herwinstenil&theme=blue-green&hide_border=false" alt="GitHub Streak" width="300" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Herwinstenil&theme=blue-green&hide_border=false" alt="GitHub Activity Graph" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herwinstenil&theme=blue-green&hide_border=false" alt="GitHub Streak" width="450" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Herwinstenil&theme=react-dark&hide_border=false" alt="GitHub Activity Graph" width="450" />
 </p>
 
 ---
