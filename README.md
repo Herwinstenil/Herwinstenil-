@@ -20,9 +20,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Herwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Herwinstenil&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=tokyonight)  
+| ![Herwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herwinstenil&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=radical) | 
 
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herwinstenil&theme=tokyonight)
