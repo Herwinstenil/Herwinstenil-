@@ -5,12 +5,22 @@
 
 ---
 
-## 🔧 Tech Stack
-- **Languages:** Python, JavaScript (ES6+), HTML5, CSS3  
-- **Frameworks:** Django, Flask, Django REST Framework, Bootstrap 5  
-- **Databases:** SQLite, MongoDB  
-- **Tools:** Git, GitHub, VS Code  
-- **Concepts:** REST APIs, Authentication, CRUD Operations  
+## 🛠 Tech Stack  
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" /><br>
+  
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=django,flask,bootstrap" /><br>
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=sqlite,mongodb" /><br>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 
 ---
 
