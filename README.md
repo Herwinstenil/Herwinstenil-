@@ -55,10 +55,10 @@
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="mailto:herwinstenil24@gmail.com" style="text-decoration:none; margin: 0 15px;">
+  <a href="mailto:herwinstenil24@gmail.com" style="margin: 0 15px;">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" />
   </a>
-  <a href="https://www.linkedin.com/in/herwin-stenil-e-b65317263" style="text-decoration:none; margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/herwin-stenil-e-b65317263" style="margin: 0 15px;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
   </a>
 </p>
